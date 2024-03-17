@@ -38,7 +38,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
-  <a href="index.html">All cities</a>`;
+  <a href="/">All cities</a>`;
 }
 
 updateSydenyTime();
